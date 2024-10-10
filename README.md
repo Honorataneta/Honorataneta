@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Honorataneta
+- 👀 I’m interested in web development, data science, and machine learning.
+- 🌱 I’m currently learning React and Python for data analysis.
+- 💞️ I’m looking to collaborate on open-source projects and innovative tech solutions.
+- 📫 How to reach me: honorata.souza@gmail.com connect with me on LinkedIn.
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I once hiked a mountain for 24 hours straight!
